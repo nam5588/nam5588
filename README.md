@@ -1,41 +1,60 @@
-# 👋 Hi, I'm Muhammad
+## 🧑‍💻 About Me
 
-💻 Software Developer | 🚀 Backend & Frontend  
+💻 Passionate Software Developer  
+🚀 Focused on Backend & Fullstack Development  
 📍 South Korea  
 
----
-
-## 🧑‍💻 About Me
-I'm a passionate developer learning modern technologies and building real-world projects.  
-I enjoy coding, solving problems, and improving my skills every day.
+I enjoy building real-world projects, learning modern technologies,  
+and improving my coding skills every day.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+### 🌐 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,js,ts,react,nextjs,vite,redux" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
----
-
-## 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn/ui-111?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Contact
-- 📧 Email: your@email.com
-- 🌐 Portfolio: yourwebsite.com
+### 🛠 Backend & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma,supabase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UploadThing-000?style=for-the-badge"/>
+</p>
 
 ---
 
-⭐ Always learning and building something new!
+### 🧰 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,heroku" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apidog-FF4D4F?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+💡 *Always building, always learning.*
