@@ -42,19 +42,6 @@ and improving my coding skills every day.
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,heroku" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Apidog-FF4D4F?style=for-the-badge&logo=swagger&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" />
-</p>
-
 ---
 
 💡 *Always building, always learning.*
